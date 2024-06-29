@@ -1,0 +1,11 @@
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\Api actualizada\ferremax\api_clientes\Ferremax\Ferremax.API\obj\Release\net8.0\PubTmp\Out\Ferremax.API.exe
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\Api actualizada\ferremax\api_clientes\Ferremax\Ferremax.API\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\Api actualizada\ferremax\api_clientes\Ferremax\Ferremax.API\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\Api actualizada\ferremax\api_clientes\Ferremax\Ferremax.API\obj\Release\net8.0\PubTmp\Out\Ferremax.API.dll
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\Api actualizada\ferremax\api_clientes\Ferremax\Ferremax.API\obj\Release\net8.0\PubTmp\Out\Ferremax.API.deps.json
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\Api actualizada\ferremax\api_clientes\Ferremax\Ferremax.API\obj\Release\net8.0\PubTmp\Out\Ferremax.API.runtimeconfig.json
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\Api actualizada\ferremax\api_clientes\Ferremax\Ferremax.API\obj\Release\net8.0\PubTmp\Out\Ferremax.API.pdb
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\Api actualizada\ferremax\api_clientes\Ferremax\Ferremax.API\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\Api actualizada\ferremax\api_clientes\Ferremax\Ferremax.API\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\Api actualizada\ferremax\api_clientes\Ferremax\Ferremax.API\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\fcara\OneDrive - Fundacion Instituto Profesional Duoc UC\Escritorio\Api actualizada\ferremax\api_clientes\Ferremax\Ferremax.API\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
